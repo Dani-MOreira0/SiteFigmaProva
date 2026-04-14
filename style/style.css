@@ -42,7 +42,7 @@ body{
     text-align: center;
 }
 .container__img{
-    margin: 1em 0em 2em 0em;   
+    margin: 1em 0em 2em 0em;
 }
 .container__botao{
     background-color: var(--botao-azul);
@@ -58,4 +58,17 @@ body{
 }
 .botao__secundario{
     
+    border-radius: 5px;
+    padding: 0.5em;
+    color: var(--branco-principal);
+    display: block;
+    text-decoration: none;
+    border: 1px solid var(--branco-principal);
+    width: 30em;
+}
+.container__aviso{
+    font-size: 12px;
+    color: var(--cinza-secundario);
+    margin-top: 1em;
+    width: 42em;
 }
