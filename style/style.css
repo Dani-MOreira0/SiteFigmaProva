@@ -145,3 +145,13 @@ body{
 .botao:hover{
     background-color: var(--botao-azul-efeito);
 }
+.img__dispositivos{
+    margin: auto;
+    text-align: center;
+    margin: 5em 3em
+    
+}
+.dispositivos__img{
+    margin-left: 23em;
+}
+
