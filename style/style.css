@@ -72,3 +72,10 @@ body{
     margin-top: 1em;
     width: 42em;
 }
+.container__secundario{
+    width: 80%;
+}
+.secundario{
+    align-items: center;
+    
+}
